@@ -1,0 +1,60 @@
+
+{
+    "Carbon" : {
+    "appearance": null,
+    "atomic_mass": 12.011,
+    "number": 6,
+    "period": 2,
+    "phase": "Solid",
+    "source": "https://en.wikipedia.org/wiki/Carbon",
+    "spectral_img": "https://en.wikipedia.org/wiki/File:Carbon_Spectra.jpg",      
+    "ionization_energies": [
+    1086.5,
+    2352.6,
+    4620.5,
+    6222.7,
+    37831,
+    47277.0
+    ]
+    },
+    "Carbon1" : {
+        "appearance": null,
+        "atomic_mass": 12.011,
+        "number": 6,
+        "period": 2,
+        "phase": "Solid",
+        "source": "https://en.wikipedia.org/wiki/Carbon",
+        "spectral_img": "https://en.wikipedia.org/wiki/File:Carbon_Spectra.jpg",      
+        "ionization_energies": [
+        1086.5,
+        2352.6,
+        4620.5,
+        6222.7,
+        37831,
+        47277.0
+        ]
+        },
+        "Carbon2" : {
+            "appearance": null,
+            "atomic_mass": 12.011,
+            "number": 6,
+            "period": 2,
+            "phase": "Solid",
+            "source": "https://en.wikipedia.org/wiki/Carbon",
+            "spectral_img": "https://en.wikipedia.org/wiki/File:Carbon_Spectra.jpg",      
+            "ionization_energies": [
+            1086.5,
+            2352.6,
+            4620.5,
+            6222.7,
+            37831,
+            47277.0
+            ]
+            }
+       
+
+        
+        
+
+
+}
